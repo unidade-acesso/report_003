@@ -1,3 +1,4 @@
 # Programa PTCRIS
-- URL: https://ptcris.pt/
-- Owner: PRCRIS
+- URL: https://www.cm-barreiro.pt
+- Proprietário: PRCRIS
+- Candidatura a: Selo 
