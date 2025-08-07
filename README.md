@@ -1,5 +1,5 @@
 # Programa PTCRIS
-- URL: https://www.cm-barreiro.pt
+- URL: https://ptcris.pt/
 - Proprietário: PRCRIS
 - Candidatura a: Selo Prata
   
